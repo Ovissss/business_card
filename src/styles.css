@@ -1,0 +1,68 @@
+body{
+background-color:black;
+}
+.face{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+   padding-top: 53px;
+    width: 317px;
+    height: 317px;  
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.card{
+width: 550px;
+height: 868px;
+margin: auto;
+margin-top: 53px;
+background-color: #23252C;
+}
+
+h1{
+color: #fff;
+text-align: center;
+font-family: serif;
+font-style: normal;
+margin: 0px;
+padding-top: 21px;
+font-size: 26px;
+}
+
+.wrap{
+   height: 399px;
+   width: 317px;
+   background-color: black;
+   margin-top: 0px;
+   margin:auto;    
+}
+h2{
+    color:#F3BF99;
+    font-family: serif;
+    text-align: center;
+    font-weight: 400;
+    font-size: 12.8px;
+    line-height: 15px;
+    margin: 0px;
+    margin-top: 6.19px;
+}
+h3{
+font-family: serif;
+font-size: 10.24px;
+line-height: 15.36px;
+color:#F5F5F5;
+text-align: center;
+margin: 0;
+margin-top: 8.8px;
+}
+.button_email{
+margin-left: 35px;
+margin-right: 17px;
+margin-top: 15px;
+}
+.button_linkd{
+margin-right: 0px;    
+}
+
