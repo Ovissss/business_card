@@ -21,7 +21,7 @@ margin-top: 53px;
 background-color: #23252C;
 }
 
-h1{
+.name{
 color: #fff;
 text-align: center;
 font-family: serif;
@@ -34,7 +34,7 @@ font-size: 26px;
 .wrap{
    height: 399px;
    width: 317px;
-   background-color: black;
+   background-color: #1A1B21;
    margin-top: 0px;
    margin:auto;    
 }
@@ -65,4 +65,51 @@ margin-top: 15px;
 .button_linkd{
 margin-right: 0px;    
 }
+.aboutd{
+text-align: left;
+color: white;
+margin:0px;
+margin-left: 36px;
+margin-top:33px;
+font-size: 16px;
+line-height: 24px;
+font-weight: 700;
+}
+p{
+color: white;
+text-align: left;
+margin: 0;
+margin-left: 36px;
+margin-right: 34px;
+font-size: 10.24px;
+font-weight: 400;
+line-height: 150%;
+}
+
+.footer{
+    width: 317px;
+    height: 64px;
+    padding-top: 19px;
+    padding-bottom: 19px;
+    margin:auto;
+    background-color:#161619;
+    display: flex;
+    height: 25px;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: space-between;
+}
+.twitter{
+    margin-right:24px;
+}
+.facebook{
+    margin-right:24px;
+}
+.instagram{
+    margin-right:24px;
+}
+.github{
+    margin-right:24px;
+}
+
 
